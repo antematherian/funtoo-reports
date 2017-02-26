@@ -67,6 +67,6 @@ Funtoo bug: https://bugs.funtoo.org/browse/FL-3590
 x11-drivers/nvidia-drivers-378.13-r1
 status: ebuild needs testing on real system, compiles correctly
 type: kernel-4.10 compatibility
-Gentoo bug: not reported
+Gentoo bug: https://bugs.gentoo.org/show_bug.cgi?id=610058
 Funtoo bug: https://bugs.funtoo.org/browse/FL-3604
 
