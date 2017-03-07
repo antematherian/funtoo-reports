@@ -1,0 +1,5 @@
+Unfork the following ebuilds when a shard hits a certain commit:
+
+Unfork virt-manager from funtoo-overlay when gnome-core-shard updates to:
+http://git.funtoo.org/gentoo-gnome-shard/commit/?id=3a83d7e6437120f0fcf180d73b5ca939ddf0e76c
+
